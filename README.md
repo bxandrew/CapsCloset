@@ -10,19 +10,11 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 ## Table of Contents
-* [Usage](#usage)
-* [Requirements](#requirements)
 * [Features](#features)
   - [Overview](#overview)
   - [Related Products](#related-products)
   - [Questions and Answers](#questions-and-answers)
   - [Ratings and Reviews](#ratings-and-reviews)
-
-## Usage
-
-## Requirements
-
-## Features
 
 ### Overview:
 
